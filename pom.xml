@@ -1,5 +1,5 @@
-<project xmlns="http://maven.apache.org/POM/3.12" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/3.12 http://maven.apache.org/xsd/maven-3.12.xsd">
-  <modelVersion>3.12</modelVersion>
+<project xmlns="http://maven.apache.org/POM/3.8.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/3.8.1 http://maven.apache.org/xsd/maven-3.8.1.xsd">
+  <modelVersion>3.8.1</modelVersion>
   <groupId>br.com.example.hellowordmaven</groupId>
   <artifactId>hellowordmaven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
